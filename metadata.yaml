@@ -1,0 +1,28 @@
+_repo: Norse-mythology-or-The-religion-of-our-forefathers-containing-all-the-myths-of-the-Eddas-syst__65910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Rasmus Björn
+    aliases:
+    - Anderson, Rasmus Bjorn
+    - Anderson, R. B. (Rasmus Björn)
+    - Anderson, Rasmus B. (Rasmus Björn)
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '4534'
+    url: http://www.gutenberg.org/2009/agents/4534
+    wikipedia: https://en.wikipedia.org/wiki/Rasmus_B._Anderson
+description: ''
+gutenberg_issued: '2021-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Norse mythology; or The religion of our forefathers, containing all the myths
+  of the Eddas, systematized and interpreted
+url: http://www.gutenberg.org/ebooks/65910
